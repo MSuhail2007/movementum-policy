@@ -10,4 +10,6 @@ This document explains what data we collect and how we use it to provide our ser
 
 Terms of Service
 
-*This document outlines the rules and
+This document outlines the rules and agreements for using our app.
+
+For any questions regarding these documents, please contact us at the support email provided within the Privacy Policy.
